@@ -1,0 +1,62 @@
+
+
+
+
+# print('i\'m learning python')
+# name = "홍길동"
+# print("저 이름은 %s입니다." %name)
+# a = "Hello World"
+# print(a[6])
+# print(a[-1])
+# print(a[0:5])
+# print(a[-5:])
+# print(a[::2])
+# print(a[::-1])
+# a = "Hello"
+# b = "World"
+# c = a + b
+# print(c)
+# print(len(a))
+# a = "python"
+# print(a.split())
+# a = "Hello Python"
+# b = 'capitalize'
+# print(b.capitalize())
+# print(a.count('o',7))
+# a = "Hello Python"
+# print(a.endswith("on"))
+# print(a.startwich("Hel",1,11))
+# print(find())
+# a = 'Hello Python'
+# for i in range:
+# print(a.find("o",6,8))
+# print(a.index("o",6,8))
+# print(a.isalpha())
+# b = "aba1abc"
+# for i in b:
+#     if i.isalpha():
+#         print(i)
+# a = 'Hello Python'
+# print(a.isalnum())
+# b = 'a1b2#4'
+# for i in b:
+#         print(i,True)
+# a = 'Hello Python'
+# for i in a:
+#     if i.islower():
+#         print(i)
+# a = 'Hello Python'
+# print("/".join(a))
+# b = ['a','b','c','d']
+# c = ''.join(b)
+# print(c,type(c))
+# s = "///str/ip///"
+# print(s.lstrip('/'))
+# print(s.strip('/'))
+# print(s.rstrip('/'))
+# print(s.replace('/',''))
+# ff = 36.5
+# print('사람은 체온은 %.1f가 기준이다.' %ff)
+# dd = 26
+# print('사람은 체온은 {1}가 기준이다. 오늘 기온은 {0}이다.'.format(ff,dd))
+# print(f"사람의 체온은 {ff}가 기준이다.")
